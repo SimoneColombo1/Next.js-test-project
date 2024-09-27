@@ -12,7 +12,7 @@ const chefArray = [
     specialita: "Cucina italiana moderna",
     ristorante: "Ristorante La Dolce Vita",
     anniEsperienza: 15,
-    premi: ["Stella Michelin", "Chef dell'anno 2020"]
+    premi: ["Stella Michelin", <br />,"Chef dell'anno 2020"]
   },
   {
      immagine:"/eren.jpg",
@@ -20,7 +20,7 @@ const chefArray = [
     specialita: "Cucina tradizionale italiana",
     ristorante: "Ristorante Il Classico",
     anniEsperienza: 20,
-    premi: ["Stella Michelin", "Premio Tradizione 2021"]
+    premi: ["Stella Michelin", <br />,"Premio Tradizione 2021"]
   },
   {
      immagine:"/eren.jpg",
@@ -36,7 +36,7 @@ const chefArray = [
     specialita: "Cucina mediterranea",
     ristorante: "Mediterraneo Gourmet",
     anniEsperienza: 18,
-    premi: ["Stella Michelin", "Chef Innovatore 2019"]
+    premi: ["Stella Michelin", <br />,"Chef Innovatore 2019"]
   },
   {
      immagine:"/eren.jpg",
@@ -52,7 +52,7 @@ const chefArray = [
     specialita: "Pasticceria francese",
     ristorante: "Le Petit Sucre",
     anniEsperienza: 8,
-    premi: ["Miglior Pasticcere 2021", "Stella Michelin"]
+    premi: ["Miglior Pasticcere 2021", <br />,"Stella Michelin"]
   },
   {
      immagine:"/eren.jpg",
@@ -60,7 +60,7 @@ const chefArray = [
     specialita: "Cucina gourmet italiana",
     ristorante: "Il Gusto Perfetto",
     anniEsperienza: 25,
-    premi: ["Stella Michelin", "Premio Eleganza Culinaria 2020"]
+    premi: ["Stella Michelin",<br />, "Premio Eleganza Culinaria 2020"]
   },
   {
      immagine:"/eren.jpg",
