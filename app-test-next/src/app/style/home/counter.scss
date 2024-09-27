@@ -1,0 +1,22 @@
+.ButtonSection{
+    padding: 6rem 0;
+    font-size: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    button{
+        padding: 1rem ;
+        width: 12rem;
+        background-color: blue;
+        border: none;
+        color: white;
+        border-radius: 3rem;
+        margin-bottom: 2rem;
+        &:hover{
+            color: black;
+            background-color: white;
+            border: 1px black solid;
+        }
+    }
+}

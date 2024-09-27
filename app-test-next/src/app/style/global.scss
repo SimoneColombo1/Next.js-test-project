@@ -18,9 +18,18 @@ nav{
     background-color: darkblue;
     padding: 2rem;
     font-size: 2rem;
+    a{
+        color: white;
+        text-decoration: none;
+        &:hover{
+            color: grey;
+        }
+    }
 }
 footer{
 background-color: darkblue;
 padding: 4rem;
+color: white;
+font-size: 1.3rem;
 }
 }

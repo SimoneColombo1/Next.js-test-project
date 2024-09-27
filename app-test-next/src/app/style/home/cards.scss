@@ -1,0 +1,24 @@
+.CardsContainer{
+display: flex;
+flex-direction: row;
+justify-content: center;
+padding: 3rem;
+background-color: darkblue;
+flex-wrap: wrap;
+.card {
+    display: flex;
+    flex-direction: column;
+    border: solid 1px black;
+    width: 20rem;
+    font-size: 1.5rem;
+    padding:  8rem 1rem;
+    background-color: white;
+    margin: 1rem;
+   justify-content: center;
+   align-items: center;
+    img{
+        border-radius: 100%;
+    }
+}
+
+}
